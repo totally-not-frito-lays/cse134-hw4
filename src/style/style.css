@@ -42,7 +42,7 @@ body {
     /* background-attachment:fixed; */
     color: #ffffff;
     margin: 0;
-    padding: 0;
+    padding: 1%;
     animation: gradient 5s ease infinite;
 }
 
@@ -64,6 +64,7 @@ main {
 
 section * {
     text-align: center;
+    padding: 1%;
 }
 
 section #lofi {
